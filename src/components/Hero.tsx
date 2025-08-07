@@ -107,7 +107,7 @@ const Hero: React.FC = () => {
               <div className="w-80 h-80 rounded-full bg-gradient-to-br from-blue-400 to-purple-600 p-2">
                 <div className="w-full h-full rounded-full bg-gray-300 dark:bg-gray-700 flex items-center justify-center overflow-hidden">
                   <img
-                    src="http://localhost:5173/my-photo.jpg"
+                    src="https://media.licdn.com/dms/image/v2/D4E22AQGgTMizwArlDQ/feedshare-shrink_800/B4EZiCkF_PHIAo-/0/1754537157519?e=1757548800&v=beta&t=GYvAbjf2F-wKMqdfPdmObeVZNwPAqf2eBdHyIWwUkQY"
                     alt="Muhammad Hassan Khan"
                     className="w-full h-full object-cover rounded-full"
                     loading="lazy"
